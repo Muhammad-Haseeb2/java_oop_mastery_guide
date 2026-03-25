@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Java OOP Mastery Guide Banner" width="100%">
 </p>
+
 # 🚀 Java OOP Mastery Guide (Beginner → Advanced)
 
 > A complete, structured, and easy-to-follow Java Object-Oriented Programming (OOP) tutorial designed to take you from **zero to confident developer**.
